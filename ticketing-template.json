@@ -1,0 +1,3 @@
+{
+"Question": "I will promote flight ticket of Airline {Airline}, from {SRCCity} to {DSTCity}, during {Season} for {memberClass} membership, I want to generate an attractive e-mail template, including email title and body to promote the flight ticket, pls help to write a body of words with landscape itinerary details for {DurationDays}, with an attractive title to help me to promote the flight ticket to the customers. The output format is formal JSON, including Email title and Email body."
+}
