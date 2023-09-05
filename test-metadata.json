@@ -1,0 +1,9 @@
+{
+
+  "DSTCity": "Tokyo",
+  "SRCCity": "Singapore",
+  "Airline": "Very Happy Airline",
+  "DurationDays": "4 days",
+  "Season": ["April", "May"],
+  "memberClass": "Gold"
+}
